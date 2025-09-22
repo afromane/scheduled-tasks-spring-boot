@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Reminder
+
+server:
+  port: 9119
